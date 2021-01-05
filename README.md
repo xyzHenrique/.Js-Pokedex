@@ -1,5 +1,5 @@
 # JS-pokedex
-simple pokedex in javascript.
+simple first generation pokedex javascript.
 
 ## API 
 pokeapi: https://pokeapi.co/
